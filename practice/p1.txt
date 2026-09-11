@@ -1,0 +1,5 @@
+1. Using what we have learnt, bbut an application that writes a stiry on someone using variables
+
+2. Build an application that can count from 1 to 200
+
+3. build an application that checka a person(s) age in a variable and grant access if age is 18 or more
